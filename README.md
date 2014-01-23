@@ -1,10 +1,8 @@
-# User Stories for My Amazon Clone
+# User Stories for My Stickie
 
-1. As a visitor, I want to see the list of products I can buy.
-2. As a visitor, I want to see the details of a specific product.
-3. As a visitor, I want to buy a product.
-5. As a user, I want to track my order.
-7. As a visitor, I want to create an account so that I can place an order.
-8. As an administrator, I want to add and remove products from the catalog.
-9. As a user, I want to receive an email when my order ships.
- 
+1. As a visitor, I would have no features.
+2. As a user, I want to be able to set up four tags.
+3. As a user, I want to be able to tag pictures by dragging them into corners.
+4. As a user, I want to be able to retrieve pictures using the set tags.
+5. As a user, I want to be able edit (rename) my set tags.
+6. As an administrator, I want to be able to see what tags are being used the most.
